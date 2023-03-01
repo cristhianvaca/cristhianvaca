@@ -1,7 +1,11 @@
-- 👋 Hola, soy @criss150595
-- 👀 Soy un ingeniero en redes y telecomunicaciones, apasionado por las redes y entusiasta de la programabilidad de las redes con ganas de aprender mucho mas y ser un profesional que este actualizado de acuerdo a los requerimientos de nuestra epoca.
-- 🌱 Actualmente me encuentro estudiando para la certificacion CISCO DEVNET y CISCO CCNP ENTERPRISE, en este perfil, estare actualizando mis repositorios de estudios correspondientes a dichas certificaciones.
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hola, soy Cristhian Vaca C.
+- 👀 Soy un ingeniero en redes y telecomunicaciones, egresado de la Universidad Autonoma Gabriel Rene Moreno de Santa Cruz - Bolivia
+Soy un ingeniero apasionado apasionado por las telecomunicaciones y entusiasta de la programabilidad de las redes con ganas de aprender mucho mas y ser un profesional que este actualizado de acuerdo a los requerimientos de nuestra epoca.
+- 🌱 Actualmente me encuentro estudiando para la certificacion CISCO CCNP ENTERPRISE, en este perfil, estare actualizando mis repositorios de estudios correspondientes a dichas certificaciones como ser apuntes teoricos y de laboratorio.
+- 📚 Cuento con certificaciones como ser: 
+  - 📗 Cisco Certified Network Associate
+  - 📗 AWS Solutions Architech
+  - 📗 Cisco Certifed Devnet Associate
 - 📫 How to reach me ...
 
 <!---
