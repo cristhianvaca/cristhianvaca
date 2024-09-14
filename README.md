@@ -6,7 +6,8 @@ Soy un ingeniero apasionado apasionado por las telecomunicaciones y entusiasta d
   - 📗 Cisco Certified Network Associate
   - 📗 AWS Solutions Architech
   - 📗 Cisco Certifed Devnet Associate
-  - 👨‍💻 Proximamente Cisco Certified Specialist Enterprise Core...
+  - 📗 Cisco Certified Specialist Enterprise Core
+  - 💻 Proximamente Cisco Certified Network Professional...
 
 <!---
 criss150595/criss150595 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
